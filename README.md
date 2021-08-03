@@ -1,5 +1,5 @@
-# 😊 Olá, sou o Luiz! Seja muito bem-vindo! 🍃
-
+# 🍃 Olá, sou o Luiz! 
+## Seja muito bem-vindo! 😊 
 <!--
 **LuizAraujo2020/LuizAraujo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
+<!-- <hr> -->
   <a href="beacons.page/luizcarlos.s.a">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizAraujo2020&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAraujo2020&layout=compact&langs_count=7&theme=highcontrast"/>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Luiz-greeting" src="https://cdn.discordapp.com/attachments/837735463028260929/871932763639529502/EmojiMovie638822196.gif">
+<!--   <img align="right" alt="Luiz-greeting" src="https://cdn.discordapp.com/attachments/837735463028260929/871932763639529502/EmojiMovie638822196.gif"> -->
 </div>
 
 <hr>
