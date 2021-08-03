@@ -4,6 +4,8 @@
 
 Here are some ideas to get you started:
 -->
+
+- 😊 I’m INFJ - Advocate
 - 🔭 I’m currently working on a capacitation called **Academy UCB**;
 - 🌱 I’m currently learning **Swift** & **Python**;
 - 👯 I’m looking to collaborate on basic topics of those languages;
