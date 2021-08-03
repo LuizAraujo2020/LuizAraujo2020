@@ -3,23 +3,26 @@
 **LuizAraujo2020/LuizAraujo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<!-- <hr> -->
-  <a href="beacons.page/luizcarlos.s.a">
+- 🔭 I’m currently working on a capacitation called Academy UCB;
+- 🌱 I’m currently learning Swift & Python;
+- 👯 I’m looking to collaborate on Basic topics of these languages;
+- 🤔 I’m looking for help with new Learners;
+- 💬 Ask me about astronomy, motocycle, psychology, philosophy, my Spotify playlists...
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I almost die a couple times, I've save a coouple lives, I travelled a half-cross-country journey in a 150cc motorcycle, and I have more than 140 playlists in my Spotify and counting... 🍃
+
+<hr>
+  <a href="beacons.page/luizcarlos.s.a" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizAraujo2020&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAraujo2020&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  
+  <a href="https://open.spotify.com/user/lu1z1n?si=acd8f65daf364376" target="_blank">  
+    <img align="center" alt="Luiz-Spotify" height="30" width="30" src="https://cdn.discordapp.com/attachments/837735463028260929/872089339360841758/spotify.png">
+  </a>
+  <img align="center" alt="Luiz-Swif" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
