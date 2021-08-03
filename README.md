@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - I almost die a couple times; 
   - I've saved a coouple lives; 
   - I travelled a cross-half-country journey in a 150cc motorcycle in a single day; 
-  - and I have more than 140 playlists in my Spotify and counting... 🍃
+  - and I have more than 90 public playlists in my Spotify, but the total is more than 140 and counting... 🍃
 
 <hr>
   <a href="beacons.page/luizcarlos.s.a" target="_blank">
