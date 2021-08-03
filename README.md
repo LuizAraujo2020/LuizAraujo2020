@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help **New Learners**;
 - 💬 Ask me about **astronomy**, **motocycle**, **psychology**, **philosophy**, my **Spotify playlists**...
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I almost die a couple times, I've save a coouple lives, I travelled a half-cross-country journey in a 150cc motorcycle, and I have more than 140 playlists in my Spotify and counting... 🍃
+- ⚡ Fun fact: I almost die a couple times, I've saved a coouple lives, I travelled a half-cross-country journey in a 150cc motorcycle in single day, and I have more than 140 playlists in my Spotify and counting... 🍃
 
 <hr>
   <a href="beacons.page/luizcarlos.s.a" target="_blank">
