@@ -1,5 +1,4 @@
-# 🍃 Olá, sou o Luiz! 
-## Seja muito bem-vindo! 😊 
+# 🍃 Hi there, Welcome!!! 😊 
 <!--
 **LuizAraujo2020/LuizAraujo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
