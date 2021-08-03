@@ -5,14 +5,18 @@
 Here are some ideas to get you started:
 -->
 
-- 😊 I’m INFJ - Advocate
+- 😊 I’m INFJ - Advocate;
 - 🔭 I’m currently working on a capacitation called **Academy UCB**;
 - 🌱 I’m currently learning **Swift** & **Python**;
 - 👯 I’m looking to collaborate on basic topics of those languages;
 - 🤔 I’m looking for help **New Learners**;
-- 💬 Ask me about **astronomy**, **motocycle**, **psychology**, **philosophy**, my **Spotify playlists**...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I almost die a couple times, I've saved a coouple lives, I travelled a cross-half-country journey in a 150cc motorcycle in a single day, and I have more than 140 playlists in my Spotify and counting... 🍃
+- 💬 Ask me about **astronomy**, **motocycle**, **psychology**, **philosophy**, my **Spotify playlists**, etc;
+- 😄 Pronouns: He/His;
+- ⚡ Fun facts: 
+  - I almost die a couple times; 
+  - I've saved a coouple lives; 
+  - I travelled a cross-half-country journey in a 150cc motorcycle in a single day; 
+  - and I have more than 140 playlists in my Spotify and counting... 🍃
 
 <hr>
   <a href="beacons.page/luizcarlos.s.a" target="_blank">
