@@ -18,15 +18,6 @@ Here are some ideas to get you started:
   - I travelled a cross-half-country journey in a 150cc motorcycle in a single day; 
   - and I have more than 90 public playlists in my Spotify, but the total is more than 140 and counting... 🍃
 
-<hr>
-
-<div>
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://open.spotify.com/embed/playlist/4yOlPjrlGXun7tEC9Oh4b9" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</figure>
-<!-- blank line -->
-</div>
 
 <hr>
   <a href="beacons.page/luizcarlos.s.a" target="_blank">
