@@ -19,6 +19,16 @@ Here are some ideas to get you started:
   - and I have more than 90 public playlists in my Spotify, but the total is more than 140 and counting... 🍃
 
 <hr>
+
+<div>
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://open.spotify.com/embed/playlist/4yOlPjrlGXun7tEC9Oh4b9" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</figure>
+<!-- blank line -->
+</div>
+
+<hr>
   <a href="beacons.page/luizcarlos.s.a" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizAraujo2020&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAraujo2020&layout=compact&langs_count=7&theme=highcontrast"/>
