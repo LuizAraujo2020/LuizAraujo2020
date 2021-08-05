@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Swift** & **Python**;
 - 👯 I’m looking to collaborate on basic topics of those languages;
 - 🤔 I’m looking for help **New Learners**;
-- 💬 Ask me about **astronomy**, **motocycle**, **psychology**, **philosophy**, my **Spotify playlists**, etc;
+- 💬 Ask me about **astronomy**, **motorcycle**, **psychology**, **philosophy**, my **Spotify playlists**, and so on;
 - 😄 Pronouns: He/His;
 - ⚡ Fun facts: 
   - I almost die a couple times; 
