@@ -1,10 +1,9 @@
-# 🍃 Hi there, Welcome!!! 😊 
+# 🍃 Hi there, welcome!!! 😊 
 <!--
 **LuizAraujo2020/LuizAraujo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
 - 😊 I’m INFJ - Advocate;
 - 🔭 I’m currently working on a capacitation called **Academy UCB**;
 - 🌱 I’m currently learning **Swift** & **Python**;
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
   - I almost die a couple times; 
   - I've saved a couple lives; 
   - I travelled a cross-half-country journey in a 150cc motorcycle in a single day; 
-  - and I have more than 90 public playlists in my Spotify, but the total is more than 140 and counting... 🍃
+  - I have more than 90 public playlists in my Spotify, but the total is more than 140 and counting... 🍃
 
 
 <hr>
@@ -29,12 +28,12 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/user/lu1z1n?si=acd8f65daf364376" target="_blank">  
     <img align="center" alt="Luiz-Spotify" height="30" width="30" src="https://cdn.discordapp.com/attachments/837735463028260929/872089339360841758/spotify.png">
   </a>
-  <img align="center" alt="Luiz-Swif" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luiz-Swif" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 <!--   <img align="right" alt="Luiz-greeting" src="https://cdn.discordapp.com/attachments/837735463028260929/871932763639529502/EmojiMovie638822196.gif"> -->
 </div>
 
@@ -56,3 +55,4 @@ Here are some ideas to get you started:
 </div>
   
 
+![](https://komarev.com/ghpvc/?username=LuizAraujo2020&color=brightgreen&label=Visitors)
