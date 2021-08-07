@@ -1,5 +1,5 @@
 <!-- # 🍃 Hi there, welcome!!! 😊  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=CECECE&size=30&center=true&vCenter=true&lines=%F0%9F%8D%83+Hi+there%2C+welcome!!!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=CECECE&size=30&center=true&vCenter=true&width=800&lines=%F0%9F%8D%83+Hi+there%2C+welcome!!!+%F0%9F%98%8A)](https://git.io/typing-svg)
 <!--
 **LuizAraujo2020/LuizAraujo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
