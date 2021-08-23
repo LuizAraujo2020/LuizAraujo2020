@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **astronomy**, **motorcycle**, **psychology**, **philosophy**, my **Spotify playlists**, and so on;
 - 😄 Pronouns: He/His;
 - ⚡ Fun facts: 
-  - I almost die a couple times; 
-  - I've saved a couple lives; 
+  - I almost die a few times; 
+  - I've saved a some lives; 
   - I travelled a cross-half-country journey in a 150cc motorcycle in a single day; 
   - I have more than 90 public playlists in my Spotify, but the total is more than 140 and counting... 🍃
 
