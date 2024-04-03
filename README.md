@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 😊 I’m INFJ - Advocate;
-- 🌟 Just finished a capacitation called **Apple Developer Academy UCB**;
+- 🌟 I've been part of an incredible capacitation called **Apple Developer Academy UCB**;
 - 🔎 Looking for a iOS Engineer position;
-- 🌱 I’m currently learning **Swift** & **Python**;
+- 🌱 I’m currently learning **Swift**, **Python** & M.L.;
 - 👫 I’m looking to collaborate on basic topics of those languages;
 - 🤩 I’m looking for help **New Learners**;
 - 💬 Ask me about **astronomy**, **motorcycle**, **psychology**, **philosophy**, my **Spotify playlists**, and so on;
